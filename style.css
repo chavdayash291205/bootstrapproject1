@@ -22,9 +22,18 @@
 }
 .footer{
     margin-top: 30px;
-    color: white;
+  
     background-color: #0F1111;
+
 }
-.footer :hover{
-    background-color: blue;
+.footer:hover{
+    background-color:brown;    
+}
+
+.kathiyawadi{
+    margin-top: 50px;
+}
+.a{
+    text-decoration: none;
+    color: white;
 }
