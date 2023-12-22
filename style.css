@@ -1,0 +1,30 @@
+.rice{
+    margin-top: 50px;
+}
+
+/* .p{
+    margin-top: 30px;
+} */
+
+.about{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.point{
+    border: solid black;
+    margin-top: 40px;
+}
+.ah{
+    text-align: center;
+    border: solid black;
+}
+.footer{
+    margin-top: 30px;
+    color: white;
+    background-color: #0F1111;
+}
+.footer :hover{
+    background-color: blue;
+}
